@@ -2,7 +2,7 @@
 name: data authorization
 about: 播客数据授权请求
 title: "【播客名称】数据授权"
-labels: ''
+labels: data authorization
 assignees: ''
 
 ---
